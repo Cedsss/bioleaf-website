@@ -1,0 +1,128 @@
+{
+  "version": 1793172635,
+  "updatedAt": "2026-10-28",
+  "plants": [
+    {
+      "id": "peperomia_pellucida",
+      "commonName": "Ulasimang Bato",
+      "scientificName": "Peperomia pellucida",
+      "family": "",
+      "categories": [
+        "Herbal Medicine"
+      ],
+      "localNames": [
+        "Ulasimang Bato",
+        "Pansit-pansitan"
+      ],
+      "description": "A common herb with shiny heart-shaped leaves. Its stems are light green in color and are almost translucent. It has tiny dot-like flowers. The entire plant is edible—it is eaten raw and added to salad. Thoroughly wash it and cut about an inch in size. Mix it with diced onion, tomato, salt, and pepper. Pickled mango is optional. It is widely used as a folkloric herbal medicine for gout, kidney disorders, and rheumatic pain. It is commonly available and native to tropical America and widely distributed throughout the Philippines.",
+      "habitat": "",
+      "medicinalUses": [
+        "Traditionally used to help manage gout, reduce uric acid levels, relieve pain and inflammation, and support urinary health."
+      ],
+      "preparation": [
+        "Consult a doctor at a health center to diagnose your symptoms and to know the medicine for gout, including how to use pansit-pansitan to help in controlling your uric acid levels.",
+        "The doctor may advise eating 1 cup (not crammed) of leafy tops of pansit-pansitan thrice during the day (as a salad).",
+        "Also, the doctor may advise boiling 1½ glasses (or 3 cups), not crammed, of pansit-pansitan in 2 glasses of water until the water reduces to half (boil for around 15 minutes), and drink the ⅓ glass of boiled water thrice in the day after eating."
+      ],
+      "healthBenefits": [
+        "Antibacterial, anticancer, antioxidant, depressant, anti-gout (Philippine setting)"
+      ],
+      "sideEffects": [
+        "Individuals with existing kidney disease, pregnant or breastfeeding women, or those taking medications should consult a healthcare professional before use."
+      ],
+      "warnings": [
+        "Use only under the guidance of a healthcare professional, especially for gout management. This information is for educational purposes only and is not a substitute for professional medical advice."
+      ],
+      "descriptionFil": "Isang karaniwang halamang-gamot na may makintab at hugis-pusong mga dahon. Ang mga tangkay nito ay mapusyaw na berde at halos malinaw o translucent. Mayroon itong maliliit na bulaklak na parang mga tuldok.\n\nAng buong halaman ay maaaring kainin—maaari itong kainin nang hilaw at idagdag sa salad. Hugasan itong mabuti at hiwain nang humigit-kumulang isang pulgada ang haba. Ihalo ito sa tinadtad na sibuyas, kamatis, asin, at paminta. Maaari ring magdagdag ng atsarang mangga kung nais.\n\nMalawak itong ginagamit bilang tradisyunal na halamang-gamot para sa gota, mga sakit sa bato, at pananakit na dulot ng rayuma. Karaniwan itong makikita at katutubo sa tropikal na Amerika, at malawak na matatagpuan sa iba't ibang bahagi ng Pilipinas.",
+      "medicinalUsesFil": [
+        "Tradisyonal na ginagamit upang makatulong sa pagkontrol ng gout, pagpapababa ng antas ng uric acid, pag-alis ng pananakit at pamamaga, at pagsuporta sa kalusugan ng daluyan ng ihi."
+      ],
+      "preparationFil": [
+        "Kumonsulta sa doktor o health center upang matukoy ang iyong kondisyon at malaman ang angkop na gamot para sa gout, kabilang ang tamang paggamit ng Pansit-Pansitan upang makatulong sa pagkontrol ng antas ng uric acid.",
+        "Maaaring payuhan ng doktor ang pagkain ng 1 tasa ng murang dahon ng Pansit-Pansitan nang tatlong beses sa isang araw bilang salad. Huwag siksikin ang mga dahon sa tasa.",
+        "Maaari ring payuhan ng doktor na pakuluan ang 1½ baso o 3 tasa ng Pansit-Pansitan sa 2 baso ng tubig hanggang sa maging kalahati na lamang ang tubig. Pakuluan nang humigit-kumulang 15 minuto.",
+        "Uminom ng ⅓ baso ng pinakuluang tubig nang tatlong beses sa isang araw pagkatapos kumain."
+      ],
+      "healthBenefitsFil": [
+        "May mga katangiang antibacterial (panlaban sa bakterya), anticancer (panlaban sa kanser), antioxidant (panlaban sa oxidative stress), depressant, at anti-gout (panlaban sa gout) sa konteksto ng Pilipinas."
+      ],
+      "sideEffectsFil": [
+        "Ang mga taong may sakit sa bato, mga buntis o nagpapasusong babae, o mga taong umiinom ng mga gamot ay dapat kumonsulta muna sa healthcare professional bago gamitin."
+      ],
+      "warningsFil": [
+        "Gamitin lamang sa gabay ng healthcare professional, lalo na sa pamamahala ng gout. Ang impormasyong ito ay para sa layuning pang-edukasyon lamang at hindi kapalit ng propesyonal na medikal na payo."
+      ],
+      "interestingFacts": [],
+      "leafCharacteristics": {},
+      "image": "leaf",
+      "color": "#3D9E63",
+      "regions": [
+        "Philippines"
+      ],
+      "dohApproved": true
+    },
+    {
+      "id": "carmona_retusa",
+      "commonName": "Tsaang-gubat",
+      "scientificName": "Carmona retusa",
+      "family": "",
+      "categories": [
+        "Herbal Medicine"
+      ],
+      "localNames": [
+        "Tsaang-gubat"
+      ],
+      "description": "Tsaang gubat, or “Tea from the Forest’’ is included in the Department of Health’s Ten (10) approved medicinal plants. It is used to treat stomachache, abdominal pain, and diarrhea. Boiled leaves drunk as tea can relieve stomachache. Leaves are also good as a mouthwash because of their fluoride content, which helps prevent tooth decay. Tsaang gubat is also used for landscaping and bonsai making. Commonly available from India to Southern China, Taiwan, and the Malay Peninsula; widely distributed throughout the Philippines.",
+      "habitat": "",
+      "medicinalUses": [
+        "Traditionally used to relieve stomach pain."
+      ],
+      "preparation": [
+        "1. Boil the chopped and freshly picked forest tea (tsaang-gubat) leaves in a pot containing 1 glass of water until the water is reduced to half its volume. Remove the cover of the pot when it boils.",
+        "2. Measurement of chopped leaves based on age: 1½ tablespoons (7–12 years old); 3 tablespoons (13 years old or older); not recommended for children below 7 years old.",
+        "3. Let it cool and then strain.",
+        "4. Drink. If stomach pain symptoms persist, consult your doctor."
+      ],
+      "healthBenefits": [
+        "Helps relieve stomach ache, abdominal pain, and diarrhea.",
+        "Caries-preventive, antispasmodic (Philippine setting)."
+      ],
+      "sideEffects": [
+        "Not recommended for children below seven years old unless advised by a healthcare professional. Individuals with known allergies to the plant should avoid its use."
+      ],
+      "warnings": [
+        "Use only as directed. Consult a healthcare professional if stomach pain persists or worsens. This information is for educational purposes only and is not a substitute for professional medical advice."
+      ],
+      "descriptionFil": "Ang Tsaang Gubat, o “Tea from the Forest,” ay kabilang sa sampung (10) aprubadong halamang-gamot ng Department of Health (DOH). Ginagamit ito upang makatulong sa paggamot ng pananakit ng tiyan, pananakit ng sikmura, at pagtatae. Ang pinakuluang dahon na iniinom bilang tsaa ay maaaring makatulong na maibsan ang pananakit ng tiyan.\n\nAng mga dahon nito ay maaari ring gamitin bilang pangmumog dahil sa taglay nitong fluoride, na nakatutulong upang maiwasan ang pagkabulok ng ngipin. Ginagamit din ang Tsaang Gubat para sa landscaping at paggawa ng bonsai.\n\nKaraniwan itong matatagpuan mula India hanggang Southern China, Taiwan, at Malay Peninsula, at malawak na ipinamamahagi sa iba't ibang bahagi ng Pilipinas.",
+      "medicinalUsesFil": [
+        "Tradisyonal na ginagamit upang makatulong na maibsan ang pananakit ng tiyan."
+      ],
+      "preparationFil": [
+        "Pakuluan ang tinadtad at bagong pitas na dahon ng Tsaang-Gubat sa isang palayok na may 1 baso ng tubig hanggang sa kalahati na lamang ang matira. Alisin ang takip ng palayok kapag kumukulo.",
+        "Dami ng dahon ayon sa edad:",
+        "1½ kutsara para sa edad 7–12 taong gulang",
+        "3 kutsara para sa edad 13 taong gulang pataas",
+        "Hindi inirerekomenda para sa mga batang wala pang 7 taong gulang",
+        "Palamigin at pagkatapos ay salain.",
+        "Inumin. Kung magpatuloy ang pananakit ng tiyan, kumonsulta sa doktor."
+      ],
+      "healthBenefitsFil": [
+        "Nakatutulong sa pagpapagaan ng pananakit ng tiyan, pananakit ng sikmura, at pagtatae. May mga katangiang nakakatulong sa pag-iwas sa pagkabulok ng ngipin at antispasmodic (nakakatulong sa pag-alis ng pulikat o pamumulikat) sa konteksto ng Pilipinas."
+      ],
+      "sideEffectsFil": [
+        "Hindi inirerekomenda para sa mga batang wala pang 7 taong gulang, maliban kung ipinayo ng healthcare professional. Ang mga taong may kilalang allergy sa halamang ito ay dapat umiwas sa paggamit nito."
+      ],
+      "warningsFil": [
+        "Gamitin lamang ayon sa itinuro o inirekomenda. Kumonsulta sa healthcare professional kung nagpapatuloy o lumalala ang pananakit ng tiyan. Ang impormasyong ito ay para sa layuning pang-edukasyon lamang at hindi kapalit ng propesyonal na medikal na payo."
+      ],
+      "interestingFacts": [],
+      "leafCharacteristics": {},
+      "image": "leaf",
+      "color": "#3D9E63",
+      "regions": [
+        "Philippines"
+      ],
+      "dohApproved": true
+    }
+  ]
+}
