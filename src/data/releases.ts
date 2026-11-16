@@ -22,6 +22,23 @@ export const MIN_SUPPORTED_VERSION = "1.0.0";
 
 export const releases: Release[] = [
   {
+    version: "1.6.6",
+    date: "2026-11-16",
+    title: "Moved to the new BioLeaf website",
+    notes: [
+      "The app now checks this website for new versions and plant-list updates",
+      "Please uninstall your old BioLeaf before installing this version. Your favorites and scan history will start fresh",
+      "Same plant-recognition model and features as 1.6.5",
+    ],
+    notesTl: [
+      "Sinusuri na ng app ang website na ito para sa bagong bersyon at update ng listahan ng halaman",
+      "Paki-uninstall muna ang lumang BioLeaf bago i-install ang bersyong ito. Magsisimula muli ang iyong mga paborito at kasaysayan ng pag-scan",
+      "Parehong modelo sa pagkilala ng halaman at mga feature tulad ng 1.6.5",
+    ],
+    file: "https://github.com/Cedsss/bioleaf-releases/releases/download/v1.6.6/BioLeaf-v1.6.6.apk",
+    sizeMB: 210,
+  },
+  {
     version: "1.6.5",
     date: "2026-11-15",
     title: "Now refuses plants outside the 10",
