@@ -52,7 +52,6 @@ export const releases: Release[] = [
       "Humigit-kumulang 98% ang husay sa mga larawan nito sa validation; sa pagsubok na iyon, wala pang 1% ng mga larawang hindi DOH ang maling natawag na halamang DOH. Maaari pa ring magkamali sa halamang hindi pa nito nakikita, kaya laging kumpirmahin sa eksperto",
       "Kasama ang pagsusuri sa blangkong larawan, mga larawan ng halaman at mga pag-aayos mula 1.6.2 hanggang 1.6.4",
     ],
-    file: "https://github.com/Cedsss/bioleaf-releases/releases/download/v1.6.5/BioLeaf-v1.6.5.apk",
     sizeMB: 210,
   },
   {
@@ -69,7 +68,6 @@ export const releases: Release[] = [
       "May sariling larawan na ang bawat halaman sa Favorites, Recently Viewed, Search at sa pahina ng halaman",
       "Kasama ang bagong modelong mas malaki ang pinagsanayan mula sa 1.6.3",
     ],
-    file: "https://github.com/Cedsss/bioleaf-releases/releases/download/v1.6.4/BioLeaf-v1.6.4.apk",
     sizeMB: 210,
   },
   {
@@ -86,7 +84,6 @@ export const releases: Release[] = [
       "Parehong 10 halaman: Bayabas, Lagundi, Ulasimang bato, Ampalaya, Tsaang-gubat, Akapulko, Yerba buena, Bawang, Sambong at Niyog-niyogan",
       "Kasama ang pag-aayos sa disclaimer button mula sa 1.6.2",
     ],
-    file: "https://github.com/Cedsss/bioleaf-releases/releases/download/v1.6.3/BioLeaf-v1.6.3.apk",
     sizeMB: 210,
   },
   {
@@ -103,7 +100,6 @@ export const releases: Release[] = [
       "Naayos din ang parehong problema sa mga button ng abiso sa update",
       "Kasama ang lahat mula sa 1.6.0 at 1.6.1",
     ],
-    file: "https://github.com/Cedsss/bioleaf-releases/releases/download/v1.6.2/BioLeaf-v1.6.2.apk",
     sizeMB: 210,
   },
   {
@@ -118,7 +114,6 @@ export const releases: Release[] = [
       "Sinusuri na ng app ang website na ito para sa bagong bersyon at update ng listahan ng halaman, at gumagana pa rin offline",
       "Kasama ang lahat mula sa 1.6.0: ang modelo para sa 10 halamang aprubado ng DOH, pag-scan ng maraming dahon, Tsaang-gubat at Ulasimang bato",
     ],
-    file: "https://github.com/Cedsss/bioleaf-releases/releases/download/v1.6.1/BioLeaf-v1.6.1.apk",
     sizeMB: 210,
   },
   {
@@ -137,7 +132,6 @@ export const releases: Release[] = [
       "Kaya nang i-scan ang dalawa o higit pang dahon at ilista ang lahat ng halamang nakita",
       "Maaaring i-update online ang listahan ng halaman at gumagana pa rin offline",
     ],
-    file: "https://github.com/Cedsss/bioleaf-releases/releases/download/v1.6.0/BioLeaf-v1.6.0.apk",
     sizeMB: 210,
   },
   {
@@ -154,7 +148,6 @@ export const releases: Release[] = [
       "Ipapaalam na ng app kapag may bagong bersyon - at patuloy itong gumagana nang offline",
       "Tingnan ang update mula sa Settings",
     ],
-    file: "https://github.com/Cedsss/bioleaf-releases/releases/download/v1.5.0/BioLeaf-v1.5.0.apk",
     sizeMB: 220,
   },
   {
@@ -169,7 +162,6 @@ export const releases: Release[] = [
       "Full Tagalog translation of the whole app",
       "Shows \"cannot be identified\" when the AI is under 80% sure",
     ],
-    file: "https://github.com/Cedsss/bioleaf-releases/releases/download/v1.4.0/BioLeaf-v1.4.0.apk",
     sizeMB: 220,
   },
   {
