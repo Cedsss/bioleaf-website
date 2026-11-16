@@ -48,7 +48,6 @@ const steps = [
 export default function Home() {
   const latest = releases[0];
   const doh = plants.filter((p) => p.doh);
-  const others = plants.filter((p) => !p.doh);
 
   return (
     <>
@@ -89,7 +88,7 @@ export default function Home() {
               ["10 of 10", "DOH-approved herbs recognized"],
               ["2", "languages: English and Tagalog"],
               ["0", "internet needed to identify"],
-              ["97%", "accuracy on validation photos"],
+              ["98%", "accuracy on validation photos"],
             ].map(([big, small]) => (
               <div key={small}>
                 <p className="text-3xl font-extrabold text-brand-700">{big}</p>
@@ -149,8 +148,7 @@ export default function Home() {
         <section id="plants" className="mx-auto max-w-6xl scroll-mt-20 px-5 py-20">
           <h2 className="text-3xl font-extrabold text-brand-900">Plants BioLeaf knows</h2>
           <p className="mt-3 max-w-2xl text-muted">
-            BioLeaf focuses on the 10 herbal medicines approved by the Philippine Department of Health, and also
-            recognizes other common household plants.
+            BioLeaf recognizes the 10 herbal medicines approved by the Philippine Department of Health.
           </p>
 
           <h3 className="mt-10 text-sm font-bold uppercase tracking-wide text-brand-700">DOH-approved herbal medicines</h3>
@@ -169,14 +167,10 @@ export default function Home() {
             ))}
           </div>
 
-          <h3 className="mt-10 text-sm font-bold uppercase tracking-wide text-muted">Also recognized</h3>
-          <div className="mt-4 flex flex-wrap gap-2">
-            {others.map((p) => (
-              <span key={p.scientific} className="rounded-full border border-line bg-white px-3 py-1.5 text-sm text-brand-800">
-                {p.filipino} <span className="text-xs italic text-muted">{p.scientific}</span>
-              </span>
-            ))}
-          </div>
+          <p className="mt-8 max-w-2xl text-sm text-muted">
+            Other plants, and photos without a leaf, are shown as &quot;cannot be identified&quot; instead of being
+            guessed as one of the 10.
+          </p>
         </section>
 
         {/* Download */}

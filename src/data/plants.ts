@@ -7,7 +7,7 @@ export type Plant = {
   comingSoon?: boolean;
 };
 
-/** The 10 DOH-approved herbal medicines (PITAHC) come first - they are the focus of BioLeaf. */
+/** The 10 DOH-approved herbal medicines (PITAHC) that BioLeaf recognizes. */
 export const plants: Plant[] = [
   { filipino: "Lagundi", scientific: "Vitex negundo", doh: true },
   { filipino: "Sambong", scientific: "Blumea balsamifera", doh: true },
@@ -19,17 +19,4 @@ export const plants: Plant[] = [
   { filipino: "Bawang", english: "Garlic", scientific: "Allium sativum", doh: true },
   { filipino: "Ulasimang Bato", english: "Pansit-pansitan", scientific: "Peperomia pellucida", doh: true },
   { filipino: "Tsaang-gubat", scientific: "Carmona retusa", doh: true },
-  { filipino: "Guyabano", english: "Soursop", scientific: "Annona muricata", doh: false },
-  { filipino: "Siling Labuyo", english: "Chili", scientific: "Capsicum frutescens", doh: false },
-  { filipino: "Takip-kuhol", english: "Gotu kola", scientific: "Centella asiatica", doh: false },
-  { filipino: "Kalamansi", scientific: "Citrus microcarpa", doh: false },
-  { filipino: "Coleus", scientific: "Coleus scutellarioides", doh: false },
-  { filipino: "Saluyot", scientific: "Corchorus olitorius", doh: false },
-  { filipino: "Luyang Dilaw", english: "Turmeric", scientific: "Curcuma longa", doh: false },
-  { filipino: "Kamote", english: "Sweet potato", scientific: "Ipomoea batatas", doh: false },
-  { filipino: "Malunggay", scientific: "Moringa oleifera", doh: false },
-  { filipino: "Oregano", scientific: "Coleus amboinicus", doh: false },
-  { filipino: "Pandan", scientific: "Pandanus amaryllifolius", doh: false },
-  { filipino: "Sampa-sampalukan", scientific: "Phyllanthus niruri", doh: false },
-  { filipino: "Sampalok", english: "Tamarind", scientific: "Tamarindus indica", doh: false },
 ];
