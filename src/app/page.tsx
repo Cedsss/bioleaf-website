@@ -86,7 +86,7 @@ export default function Home() {
         <section className="border-y border-line bg-white">
           <div className="mx-auto grid max-w-6xl grid-cols-2 gap-6 px-5 py-8 text-center md:grid-cols-4">
             {[
-              ["8 of 10", "DOH-approved herbs recognized so far"],
+              ["10 of 10", "DOH-approved herbs recognized"],
               ["2", "languages: English and Tagalog"],
               ["0", "internet needed to identify"],
               ["97%", "accuracy on validation photos"],
