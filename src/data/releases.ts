@@ -22,6 +22,23 @@ export const MIN_SUPPORTED_VERSION = "1.0.0";
 
 export const releases: Release[] = [
   {
+    version: "1.6.7",
+    date: "2026-11-16",
+    title: "Cleaner camera screen",
+    notes: [
+      "The camera screen is now a plain viewfinder: the frame and the tips on top of the camera are removed",
+      "You can still crop your photo to the leaf before it is analyzed",
+      "Installs over 1.6.6 as a normal update - no need to uninstall",
+    ],
+    notesTl: [
+      "Simple na ang screen ng camera: inalis na ang frame at ang mga tip na nakapatong sa camera",
+      "Maaari mo pa ring i-crop ang larawan sa dahon bago ito suriin",
+      "Mai-install sa ibabaw ng 1.6.6 bilang karaniwang update - hindi na kailangang i-uninstall",
+    ],
+    file: "https://github.com/Cedsss/bioleaf-releases/releases/download/v1.6.7/BioLeaf-v1.6.7.apk",
+    sizeMB: 210,
+  },
+  {
     version: "1.6.6",
     date: "2026-11-16",
     title: "Moved to the new BioLeaf website",
