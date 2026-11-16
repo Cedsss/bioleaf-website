@@ -22,6 +22,23 @@ export const MIN_SUPPORTED_VERSION = "1.0.0";
 
 export const releases: Release[] = [
   {
+    version: "1.6.8",
+    date: "2026-11-17",
+    title: "New plant photos",
+    notes: [
+      "New photos for all 10 DOH-approved plants, showing each whole plant as it grows",
+      "Shown on each plant page and next to plant names in Home, Search, Favorites and History",
+      "Installs over 1.6.6 and 1.6.7 as a normal update - no need to uninstall",
+    ],
+    notesTl: [
+      "Mga bagong larawan para sa lahat ng 10 halamang aprubado ng DOH, na ipinapakita ang buong halaman habang tumutubo",
+      "Makikita sa pahina ng bawat halaman at sa tabi ng pangalan ng halaman sa Home, Search, Favorites at History",
+      "Mai-install sa ibabaw ng 1.6.6 at 1.6.7 bilang karaniwang update - hindi na kailangang i-uninstall",
+    ],
+    file: "https://github.com/Cedsss/bioleaf-releases/releases/download/v1.6.8/BioLeaf-v1.6.8.apk",
+    sizeMB: 210,
+  },
+  {
     version: "1.6.7",
     date: "2026-11-16",
     title: "Cleaner camera screen",
